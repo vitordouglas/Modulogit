@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-image: linear-gradient(to right,rgb(194, 155, 162), white, rgba(59, 119, 146, 0.658),#943f9485);
+    font: normal 18pt Arial;
+}
+
+h1{
+    background: -webkit-linear-gradient(left, #91344e 0%, #5e2525 100%);
+    background: -webkit-linear-gradient(right, #ff1053 15%, #2f558f 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+
+    
+}
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: -webkit-linear-gradient(left, #91344e 10%, #5e2525 80%);
+    background: -webkit-linear-gradient(right, #ff1053 1%, #2f558f 80%);
+    border-radius: 10px;
+    padding: 1px 1px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.479);
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+}
+
+input[type=number]{
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(153, 71, 51);
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid rgba(6, 57, 99, 0.692);
+}
+
+input[type=number]:focus {
+    color: rgb(10, 10, 10);
+}
+
+footer {
+    background: -webkit-linear-gradient(left, #91344e 0%, #5e2525 100%);
+    background: -webkit-linear-gradient(right, #ff1053 15%, #2f558f 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    text-align: center;
+    font-style: italic;
+}
