@@ -1,3 +1,1 @@
-Meu primerio sistema no Git (alterado e atualizado) não sei oque houve!
-
-Git é uma coisa que confunde muito a cabeça da gente meu Deus 
+Fazendo um projeto do professor Gustavo Guanabara, com algumas modificações minhas.
